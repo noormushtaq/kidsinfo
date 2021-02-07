@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kidsinfo/static/css/main.23be51bf.chunk.css",
+    "main.css": "/kidsinfo/static/css/main.b7bf8e65.chunk.css",
     "main.js": "/kidsinfo/static/js/main.e6717296.chunk.js",
     "main.js.map": "/kidsinfo/static/js/main.e6717296.chunk.js.map",
     "runtime-main.js": "/kidsinfo/static/js/runtime-main.ccce3f88.js",
@@ -8,9 +8,9 @@
     "static/js/2.8c2859e4.chunk.js": "/kidsinfo/static/js/2.8c2859e4.chunk.js",
     "static/js/2.8c2859e4.chunk.js.map": "/kidsinfo/static/js/2.8c2859e4.chunk.js.map",
     "index.html": "/kidsinfo/index.html",
-    "precache-manifest.7e4a66c529d250e221c3d4bc3448cf83.js": "/kidsinfo/precache-manifest.7e4a66c529d250e221c3d4bc3448cf83.js",
+    "precache-manifest.48c990cec79975eebdb27964a6cea2c7.js": "/kidsinfo/precache-manifest.48c990cec79975eebdb27964a6cea2c7.js",
     "service-worker.js": "/kidsinfo/service-worker.js",
-    "static/css/main.23be51bf.chunk.css.map": "/kidsinfo/static/css/main.23be51bf.chunk.css.map",
+    "static/css/main.b7bf8e65.chunk.css.map": "/kidsinfo/static/css/main.b7bf8e65.chunk.css.map",
     "static/js/2.8c2859e4.chunk.js.LICENSE": "/kidsinfo/static/js/2.8c2859e4.chunk.js.LICENSE",
     "static/media/8.png": "/kidsinfo/static/media/8.186f3031.png",
     "static/media/Antibiotic.jpg": "/kidsinfo/static/media/Antibiotic.28098f20.jpg",
@@ -64,7 +64,7 @@
   "entrypoints": [
     "static/js/runtime-main.ccce3f88.js",
     "static/js/2.8c2859e4.chunk.js",
-    "static/css/main.23be51bf.chunk.css",
+    "static/css/main.b7bf8e65.chunk.css",
     "static/js/main.e6717296.chunk.js"
   ]
 }
