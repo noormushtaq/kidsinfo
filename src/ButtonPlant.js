@@ -122,8 +122,8 @@ function ButtonPlant() {
                description:"Sorry! there is no information under this letter",
                imageUrl:sorry},
 
-               {title:"H",
-               description:"Sorry! there is no information under this letter",
+               {title:"Herbarium",
+               description:"A herbarium is a collection of dried plants. You can make one yourself! Gather some leaves or flowers. Let them dry out between sheets of newspaper. Then glue them into a notebook and write down their names and where you found them.",
                imageUrl:sorry},
 
                {title:"I",
