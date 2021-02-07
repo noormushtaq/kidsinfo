@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "882187bc9574ca3f29b855e11ce4f1cb",
+    "revision": "c0de292f5fbe17abfbbc9c703d81509e",
     "url": "/kidsinfo/index.html"
   },
   {
-    "revision": "d8322b9e09df04fc3446",
-    "url": "/kidsinfo/static/css/main.ac170510.chunk.css"
+    "revision": "c3f2b86e87b5f8bbebe8",
+    "url": "/kidsinfo/static/css/main.657c087b.chunk.css"
   },
   {
     "revision": "d6217f5f3ffc1b8cef65",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kidsinfo/static/js/2.8c2859e4.chunk.js.LICENSE"
   },
   {
-    "revision": "d8322b9e09df04fc3446",
+    "revision": "c3f2b86e87b5f8bbebe8",
     "url": "/kidsinfo/static/js/main.e6717296.chunk.js"
   },
   {
