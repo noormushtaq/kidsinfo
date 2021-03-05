@@ -110,6 +110,11 @@ function ButtonPlant() {
               description:"Oranges, tangerines, lemons, and grapefruits are citrus fruits. These fruits are covered with thick, slightly grainy skin referred to as a zest. Inside, the pulp is filled with juice! The seeds, or pips, are enclosed in the sections of the fruit.",
               imageUrl:citrus},
 
+              {title:"Arboretum",
+               description:"An arboretum is a park planted with many kinds of trees. Its a little like a collection! Some trees are common, but others are rare or  sometimes in danger ",
+               imageUrl:sorry},
+
+
               {title:"D",
                description:"Sorry! there is no information under this letter",
                imageUrl:sorry},
